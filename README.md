@@ -1,5 +1,5 @@
 # University
-- Semester 1
+- :blue_book: Semester 1
   - [first](https://www.google.com/)
   - second
 
