@@ -3,4 +3,5 @@
   - [first](https://www.google.com/)
   - second
 
-- Semester 2
+- :notebook_with_decorative_cover: Semester 2
+  - first
