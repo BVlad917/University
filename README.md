@@ -6,7 +6,7 @@
   - :repeat: [Computational Logic](https://github.com/BVlad917/Computational-Logic.git)
   - :heavy_division_sign:	[Algebra](https://github.com/BVlad917/Algebra.git)
 
-- :notebook_with_decorative_cover: Semester 2
+- :closed_book: Semester 2
   - :shopping_cart: [Object Oriented Programming](https://github.com/BVlad917/Object-Oriented-Programming.git)
   - :toolbox: [Data Structures and Algorithms](https://github.com/BVlad917/Data-Structures-and-Algorithms.git)
   - :chart_with_downwards_trend: [Dynamical Systems](https://github.com/BVlad917/Dynamical-Systems.git)
