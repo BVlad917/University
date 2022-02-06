@@ -1,4 +1,5 @@
 # University
+Babes-Bolyai University - Computer Science 2020-2023
 - :blue_book: Semester 1
   - :snake: [Fundamentals of Programming](https://github.com/BVlad917/Fundamentals-of-Programming.git)
   - :desktop_computer: [Computer System Architecture](https://github.com/BVlad917/Computer-System-Architecture.git)
