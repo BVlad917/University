@@ -14,3 +14,10 @@ Babes-Bolyai University - Computer Science 2020-2023
   - :computer: [Operating Systems](https://github.com/BVlad917/Operating-Systems.git)
   - :car: [Graph Algorithms](https://github.com/BVlad917/Graph-Algorithms.git)
   - :triangular_ruler: [Geometry](https://github.com/BVlad917/Geometry.git)
+
+- :orange_book: Semester 3
+  - :unlock: [Advanced Methods of Programming]()
+  - :floppy_disk: [Databases]()
+  - :satellite: [Computer Networks]()
+  - :arrow_right: [Functional and Logic Programming]()
+  - :bar_chart: [Probability and Statistics]()
