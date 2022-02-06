@@ -16,7 +16,7 @@ Babes-Bolyai University - Computer Science 2020-2023
   - :triangular_ruler: [Geometry](https://github.com/BVlad917/Geometry.git)
 
 - :orange_book: Semester 3
-  - :unlock: [Advanced Methods of Programming]()
+  - :unlock: [Advanced Methods of Programming](https://github.com/BVlad917/Advanced-Methods-of-Programming)
   - :floppy_disk: [Databases]()
   - :satellite: [Computer Networks]()
   - :arrow_right: [Functional and Logic Programming]()
