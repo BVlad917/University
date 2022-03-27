@@ -19,5 +19,5 @@ Babes-Bolyai University - Computer Science 2020-2023
   - :unlock: [Advanced Methods of Programming](https://github.com/BVlad917/Advanced-Methods-of-Programming.git)
   - :floppy_disk: [Databases](https://github.com/BVlad917/Databases.git)
   - :satellite: [Computer Networks](https://github.com/BVlad917/Computer-Networks.git)
-  - :arrow_right: [Functional and Logic Programming]()
+  - :arrow_right: [Functional and Logic Programming](https://github.com/BVlad917/Logic-and-Functional-Programming.git)
   - :bar_chart: [Probability and Statistics]()
