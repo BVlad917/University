@@ -18,6 +18,6 @@ Babes-Bolyai University - Computer Science 2020-2023
 - :orange_book: Semester 3
   - :unlock: [Advanced Methods of Programming](https://github.com/BVlad917/Advanced-Methods-of-Programming.git)
   - :floppy_disk: [Databases](https://github.com/BVlad917/Databases.git)
-  - :satellite: [Computer Networks]()
+  - :satellite: [Computer Networks](https://github.com/BVlad917/Computer-Networks.git)
   - :arrow_right: [Functional and Logic Programming]()
   - :bar_chart: [Probability and Statistics]()
