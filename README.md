@@ -20,4 +20,4 @@ Babes-Bolyai University - Computer Science 2020-2023
   - :floppy_disk: [Databases](https://github.com/BVlad917/Databases.git)
   - :satellite: [Computer Networks](https://github.com/BVlad917/Computer-Networks.git)
   - :arrow_right: [Functional and Logic Programming](https://github.com/BVlad917/Logic-and-Functional-Programming.git)
-  - :bar_chart: [Probability and Statistics]()
+  - :bar_chart: [Probability and Statistics](https://github.com/BVlad917/Probability-Statistics.git)
